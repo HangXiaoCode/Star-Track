@@ -8,7 +8,7 @@ class Header extends Component {
             <header className="App-header">
                 <img src={starlinkLogo} className="App-logo" alt="logo" />
                 <p className="title">
-                    StarLink Tracker
+                    Star Track
                 </p>
             </header>
         );
